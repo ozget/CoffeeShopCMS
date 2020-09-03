@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\bin\Debug\netstandard2.0\CoffeeShopCMS.Infrastructure.deps.json
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\bin\Debug\netstandard2.0\CoffeeShopCMS.Infrastructure.dll
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\bin\Debug\netstandard2.0\CoffeeShopCMS.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\bin\Debug\netstandard2.0\CoffeeShopCMS.Data.dll
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\bin\Debug\netstandard2.0\CoffeeShopCMS.Domain.dll
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\bin\Debug\netstandard2.0\CoffeeShopCMS.Service.dll
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\bin\Debug\netstandard2.0\CoffeeShopCMS.Service.pdb
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\bin\Debug\netstandard2.0\CoffeeShopCMS.Data.pdb
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\bin\Debug\netstandard2.0\CoffeeShopCMS.Domain.pdb
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\obj\Debug\netstandard2.0\CoffeeShopCMS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\obj\Debug\netstandard2.0\CoffeeShopCMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\obj\Debug\netstandard2.0\CoffeeShopCMS.Infrastructure.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\obj\Debug\netstandard2.0\CoffeeShopCMS.Infrastructure.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\obj\Debug\netstandard2.0\CoffeeShopCMS.Infrastructure.dll
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\obj\Debug\netstandard2.0\CoffeeShopCMS.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Infrastructure\obj\Debug\netstandard2.0\CoffeeShopCMS.Infrastructure.csproj.CoreCompileInputs.cache

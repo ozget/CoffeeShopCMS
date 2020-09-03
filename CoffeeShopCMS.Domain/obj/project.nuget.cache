@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l55a9Sy3BwGQT9mvnq4aec0n/Kj+TJMNRmjBsHNIctnMhbgxYl300UjT5LFKZTNn7mbVlHbkgShd55n0mJLKYw==",
+  "success": true,
+  "projectFilePath": "D:\\C\\Desktop\\MVC-Projects\\CoffeeShopCMS\\CoffeeShopCMS.Domain\\CoffeeShopCMS.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\topra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\topra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\topra\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

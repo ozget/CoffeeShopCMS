@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Domain\bin\Debug\netstandard2.0\CoffeeShopCMS.Domain.deps.json
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Domain\bin\Debug\netstandard2.0\CoffeeShopCMS.Domain.dll
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Domain\bin\Debug\netstandard2.0\CoffeeShopCMS.Domain.pdb
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Domain\obj\Debug\netstandard2.0\CoffeeShopCMS.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Domain\obj\Debug\netstandard2.0\CoffeeShopCMS.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Domain\obj\Debug\netstandard2.0\CoffeeShopCMS.Domain.dll
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Domain\obj\Debug\netstandard2.0\CoffeeShopCMS.Domain.pdb
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Domain\obj\Debug\netstandard2.0\CoffeeShopCMS.Domain.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\CoffeeShopCMS\CoffeeShopCMS.Domain\obj\Debug\netstandard2.0\CoffeeShopCMS.Domain.csproj.CoreCompileInputs.cache

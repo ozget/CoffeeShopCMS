@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="SoapCore" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoffeeShopCMS.Data\CoffeeShopCMS.Data.csproj" />
+    <ProjectReference Include="..\CoffeeShopCMS.Domain\CoffeeShopCMS.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
